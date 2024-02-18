@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**rifkydelta/rifkydelta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Arindra Rifky Saputra, a third-year student from the Japanese Language Education program at Universitas Negeri Semarang. I have a keen interest in learning and evolving as a UI/UX Designer to craft applications that provide a seamless and enjoyable user experience. <br>
+<br>
+If you are interested in me, please visit my [LinkedIn](https://www.linkedin.com/in/arindra-rifky-saputra/). 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifkydelta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifkydelta&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
