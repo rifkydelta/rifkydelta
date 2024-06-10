@@ -5,9 +5,11 @@ Hello, I'm Arindra Rifky Saputra, a third-year student from the Japanese Languag
 If you are interested in me, please visit my [LinkedIn](https://www.linkedin.com/in/arindra-rifky-saputra/). 
 
 ### Github Statistic
-<p align="left">
-<a href="https://github.com/rifkydelta">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifkydelta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifkydelta&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
+<div style="display: flex; flex-direction: row;">
+  <a href="https://github.com/rifkydelta">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifkydelta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/rifkydelta">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifkydelta&layout=compact&layout=compact&theme=algolia"/>
+  </a>
+</div>
