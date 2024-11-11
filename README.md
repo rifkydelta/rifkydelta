@@ -11,7 +11,7 @@ If you're interested in me, feel free to connect via my [LinkedIn](https://www.l
 - 🎓 I'm currently studying **Japanese Language Education** at **Universitas Negeri Semarang**.
 - 💡 I love learning about **UI/UX design** and **app development**.
 - 🚀 I'm currently working on personal projects to enhance my design and development skills.
-- 🌱 I’m exploring **Flutter**, and **Figma** to improve my skills.
+- 🌱 I’m exploring **Kotlin**, **Flutter**, and **Figma** to improve my skills.
 - 🍿 In my free time, I enjoy watching movies and exploring new tech.
 
 ---
